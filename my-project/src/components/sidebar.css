@@ -1,0 +1,11 @@
+*{
+    cursor: pointer;
+}
+
+
+.liContainer{
+    display: flex;
+    align-items: center;
+    padding: 11px;
+    margin: 11px;
+}
