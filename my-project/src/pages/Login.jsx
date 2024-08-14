@@ -12,7 +12,7 @@ const Login = () => {
                 </div>
 
                 <div className='z-10 block relative w-[20rem] p-1 shadow-md bg-[length:100%_100%] md:w-[29rem] lg:w-[30rem]'>
-                    <div className="z-10 relative items-center justify-center mt-auto z-2 min-h-[22rem] p-[2.4rem] pointer-events-none bg-gray-900 backdrop-blur border border-gray-800 rounded-2xl">
+                    <div className="z-10 relative items-center justify-center mt-auto z-2 min-h-[22rem] p-[2.4rem] bg-gray-900 backdrop-blur border border-gray-800 rounded-2xl">
                         <div className="flex flex-col items-center justify-center mt-auto">
                             <h2 className='p-1 text-2xl'>Create a new account</h2>
                             <button className='z-20 m-7 px-4 py-2 rounded-md border border-neutral-500 bg-gray-900 text-neutral-500 text-sm transform transition duration-200 hover:shadow-md flex justify-center items-center w-[89%]'>
